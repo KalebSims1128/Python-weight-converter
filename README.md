@@ -1,5 +1,7 @@
 # Weight-Converter
 This is a simple weight converter implemented in Python. It allows users to input their weight and convert it between kilograms (Kgs) and pounds (lbs) using a straightforward text-based interface.
+This is a very basic, beginner-friendly Python project — perfect for practicing user input, conditionals, and simple calculations.
+
 
 ## Features
 
