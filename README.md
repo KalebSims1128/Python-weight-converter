@@ -12,7 +12,4 @@ This is a simple weight converter implemented in Python. It allows users to inpu
 
 - **Python 3.x**
 
-## Run the program by using:
 
-```bash
-python weight_converter.py
